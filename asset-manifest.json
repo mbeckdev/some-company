@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/some-company/static/css/main.1270c352.css",
+    "main.js": "/some-company/static/js/main.c65709e6.js",
+    "static/media/pglogo2-cropped-minified.svg": "/some-company/static/media/pglogo2-cropped-minified.f43be091fa90812f8310316adf8817de.svg",
+    "index.html": "/some-company/index.html",
+    "main.1270c352.css.map": "/some-company/static/css/main.1270c352.css.map",
+    "main.c65709e6.js.map": "/some-company/static/js/main.c65709e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1270c352.css",
+    "static/js/main.c65709e6.js"
+  ]
+}
