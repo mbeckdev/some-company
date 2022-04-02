@@ -12,10 +12,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 .App__title {
   font-family: 'Lobster Two', cursive;
   text-shadow: 1px 1px 4px rgb(0, 4, 43);
 }
+
 .App img {
   margin-bottom: 100px;
 }
